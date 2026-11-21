@@ -1,0 +1,479 @@
+{
+  "policyRate": 36,
+  "policyNote": "TCMB Ekim 2026'da %37'den %36'ya indirdi",
+  "weeklyAvg": {
+    "date": "2026-11-06",
+    "konut": 41.33,
+    "tasit": 39.16,
+    "ihtiyac": 59.2
+  },
+  "banksDate": "2026-11-20",
+  "banksSource": "Hesapkurdu, HangiKredi, Hesap.com, Teklifimgelsin karşılaştırmaları (19-20 Kasım 2026)",
+  "banks": {
+    "ihtiyac": [
+      {
+        "bank": "Fenerpara",
+        "rate": 2.49
+      },
+      {
+        "bank": "GSPara",
+        "rate": 2.49
+      },
+      {
+        "bank": "QNB",
+        "rate": 2.84
+      },
+      {
+        "bank": "DenizBank",
+        "rate": 2.89
+      },
+      {
+        "bank": "Odeabank",
+        "rate": 3.05,
+        "max": 500000
+      },
+      {
+        "bank": "Anadolubank",
+        "rate": 3.09,
+        "min": 1000,
+        "max": 350000,
+        "minTerm": 3,
+        "maxTerm": 36
+      },
+      {
+        "bank": "Alternatif Bank",
+        "rate": 3.19
+      },
+      {
+        "bank": "ON Dijital",
+        "rate": 3.19,
+        "max": 600000
+      },
+      {
+        "bank": "ING",
+        "rate": 3.29,
+        "min": 0,
+        "max": 600000,
+        "minTerm": 3,
+        "maxTerm": 36
+      },
+      {
+        "bank": "GetirFinans",
+        "rate": 3.29,
+        "max": 650000
+      },
+      {
+        "bank": "Aktif Bank",
+        "rate": 3.39
+      },
+      {
+        "bank": "TEB / CEPTETEB",
+        "rate": 3.39,
+        "min": 1000,
+        "max": 500000,
+        "minTerm": 3,
+        "maxTerm": 36
+      },
+      {
+        "bank": "Kuveyt Türk",
+        "rate": 3.47
+      },
+      {
+        "bank": "Türkiye Finans",
+        "rate": 3.49
+      },
+      {
+        "bank": "Akbank",
+        "rate": 3.59,
+        "min": 1000,
+        "max": 250000,
+        "minTerm": 1,
+        "maxTerm": 36
+      },
+      {
+        "bank": "Enpara",
+        "rate": 3.59
+      },
+      {
+        "bank": "HSBC",
+        "rate": 3.64,
+        "max": 250000
+      },
+      {
+        "bank": "Vakıfbank",
+        "rate": 3.69,
+        "min": 1000,
+        "max": 999999,
+        "minTerm": 1,
+        "maxTerm": 36
+      },
+      {
+        "bank": "Albaraka Türk",
+        "rate": 4.0,
+        "min": 250,
+        "max": 150000,
+        "minTerm": 3,
+        "maxTerm": 36
+      },
+      {
+        "bank": "İş Bankası",
+        "rate": 4.08
+      },
+      {
+        "bank": "Ziraat Bankası",
+        "rate": 4.09
+      },
+      {
+        "bank": "Halkbank",
+        "rate": 4.54,
+        "max": 250000
+      }
+    ],
+    "konut": [
+      {
+        "bank": "Halkbank",
+        "rate": 2.69,
+        "min": 500,
+        "max": 5000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Albaraka Türk",
+        "rate": 2.87,
+        "min": 1000,
+        "max": 3000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Kuveyt Türk",
+        "rate": 2.87,
+        "min": 1000,
+        "max": 3000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Yapı Kredi",
+        "rate": 2.88,
+        "min": 1000,
+        "max": 10000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Ziraat Bankası",
+        "rate": 2.89,
+        "min": 1,
+        "max": 10000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Türkiye Finans",
+        "rate": 2.9,
+        "min": 1000,
+        "max": 3500000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "QNB",
+        "rate": 2.99,
+        "min": 1000,
+        "max": 3000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Dünya Katılım",
+        "rate": 2.99
+      },
+      {
+        "bank": "Vakıfbank",
+        "rate": 2.99,
+        "min": 10000,
+        "max": 8500000,
+        "minTerm": 3,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Vakıf Katılım",
+        "rate": 2.99,
+        "min": 1000,
+        "max": 2000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Garanti BBVA",
+        "rate": 3.13,
+        "min": 10000,
+        "max": 50000000,
+        "minTerm": 12,
+        "maxTerm": 240
+      },
+      {
+        "bank": "Akbank",
+        "rate": 3.15,
+        "min": 10000,
+        "max": 5000000,
+        "minTerm": 12,
+        "maxTerm": 120
+      },
+      {
+        "bank": "ING",
+        "rate": 3.19,
+        "min": 1000,
+        "max": 20000000,
+        "minTerm": 12,
+        "maxTerm": 120
+      },
+      {
+        "bank": "TEB",
+        "rate": 3.3
+      }
+    ],
+    "tasit": [
+      {
+        "bank": "Vakıf Katılım",
+        "rate": 3.14
+      },
+      {
+        "bank": "Kuveyt Türk",
+        "rate": 3.24
+      },
+      {
+        "bank": "Dünya Katılım",
+        "rate": 3.29
+      },
+      {
+        "bank": "Garanti BBVA",
+        "rate": 3.29
+      },
+      {
+        "bank": "ING",
+        "rate": 3.29
+      },
+      {
+        "bank": "TEB",
+        "rate": 3.29
+      },
+      {
+        "bank": "Ziraat Bankası",
+        "rate": 3.29
+      },
+      {
+        "bank": "Akbank",
+        "rate": 3.4
+      },
+      {
+        "bank": "Ziraat Katılım",
+        "rate": 3.49
+      },
+      {
+        "bank": "İş Bankası",
+        "rate": 3.49
+      },
+      {
+        "bank": "ICBC Turkey",
+        "rate": 3.99
+      },
+      {
+        "bank": "Halkbank",
+        "rate": 4.04
+      },
+      {
+        "bank": "Emlak Katılım",
+        "rate": 4.29
+      },
+      {
+        "bank": "QNB",
+        "rate": 4.72
+      }
+    ]
+  },
+  "campaigns": [
+    {
+      "bank": "QNB",
+      "newCustomer": true,
+      "rate": 0,
+      "total": 150000,
+      "term": 3,
+      "items": "25.000 TL ihtiyaç kredisi + 25.000 TL taksitli nakit avans + 100.000 TL taksitli ek hesap",
+      "cond": "Kasım ayında ilk kez müşteri olanlara",
+      "until": "2026-11-30",
+      "url": "https://www.qnb.com.tr"
+    },
+    {
+      "bank": "Akbank",
+      "newCustomer": true,
+      "rate": 0,
+      "total": 125000,
+      "term": 3,
+      "items": "100.000 TL Taksitli Artı Para + 25.000 TL taksitli avans",
+      "cond": "Akbank Mobil'den 1-30 Kasım'da müşteri olunmalı. Artı Para 75.000 TL; 100.000 TL için otomatik fatura talimatı + yeni kartla en az 2.500 TL harcama. Avans için Axess TROY kart başvurusu 30 Kasım'a kadar onaylanmalı",
+      "until": "2026-11-30",
+      "url": "https://www.akbank.com/kampanyalar/0faiz-oraniyla-nakit-firsati"
+    },
+    {
+      "bank": "Garanti BBVA",
+      "newCustomer": true,
+      "rate": 0,
+      "total": 100000,
+      "term": 3,
+      "items": "50.000 TL ihtiyaç kredisi + 50.000 TL Taksitli Avans Hesap",
+      "cond": "1-30 Kasım'da Garanti BBVA Mobil'den ilk kez müşteri olunmalı",
+      "until": "2026-11-30",
+      "url": "https://www.garantibbva.com.tr/tr/kampanyalar"
+    },
+    {
+      "bank": "DenizBank",
+      "newCustomer": true,
+      "rate": 0,
+      "total": 100000,
+      "termText": "3-4 ay",
+      "items": "50.000 TL ihtiyaç kredisi (4 ay) + 25.000 TL taksitli nakit avans + 25.000 TL Taksitli Kurtaran Hesap (3 ay)",
+      "cond": "Kampanya dönemi 1 Ekim-30 Kasım",
+      "until": "2026-11-30",
+      "url": "https://www.denizbank.com"
+    },
+    {
+      "bank": "TEB / CEPTETEB",
+      "newCustomer": true,
+      "rate": 0,
+      "total": 75000,
+      "termText": "3-6 ay",
+      "items": "50.000 TL ihtiyaç kredisi (6 ay) + 25.000 TL taksitli nakit avans (3 ay)",
+      "cond": "",
+      "until": "2026-11-30",
+      "url": "https://www.cepteteb.com.tr"
+    },
+    {
+      "bank": "İş Bankası",
+      "newCustomer": true,
+      "rate": 0.99,
+      "rateText": "%0 – %0,99",
+      "total": 100000,
+      "termText": "1-3 ay",
+      "items": "50.000 TL ihtiyaç kredisi (3 ay) + 50.000 TL ek hesap (1 ay)",
+      "cond": "1-30 Kasım'da İşCep 'Müşteri Olmak İstiyorum' ile görüntülü görüşmeyle müşteri olunmalı. Kaynaklarda oran %0 veya %0,99 olarak geçiyor",
+      "until": "2026-11-30",
+      "url": "https://www.isbank.com.tr/musteri-olmak-istiyorum"
+    },
+    {
+      "bank": "Fenerpara",
+      "newCustomer": true,
+      "rate": 0,
+      "total": 50000,
+      "term": 3,
+      "items": "25.000 TL ihtiyaç kredisi + 25.000 TL taksitli nakit avans",
+      "cond": "",
+      "until": "",
+      "url": "https://www.qnb.com.tr",
+      "linkNote": "Fenerpara bir QNB ürünüdür; bağlantı QNB'nin sitesine gider."
+    },
+    {
+      "bank": "GSPara",
+      "newCustomer": true,
+      "rate": 0,
+      "total": 50000,
+      "term": 3,
+      "items": "25.000 TL ihtiyaç kredisi + 25.000 TL taksitli nakit avans",
+      "cond": "",
+      "until": "",
+      "url": "https://www.qnb.com.tr",
+      "linkNote": "GSPara bir QNB ürünüdür; bağlantı QNB'nin sitesine gider."
+    },
+    {
+      "bank": "Tom Bank",
+      "newCustomer": true,
+      "rate": 0,
+      "rateText": "%0 kâr payı",
+      "total": 50000,
+      "items": "İhtiyaç finansmanı",
+      "cond": "",
+      "until": "",
+      "url": "https://www.tombank.com.tr"
+    },
+    {
+      "bank": "Türkiye Finans",
+      "newCustomer": true,
+      "rate": 2.99,
+      "rateText": "%2,99 kâr payı",
+      "total": 100000,
+      "term": 3,
+      "items": "İhtiyaç finansmanı",
+      "cond": "",
+      "until": "",
+      "url": "https://www.turkiyefinans.com.tr"
+    },
+    {
+      "bank": "Kuveyt Türk",
+      "newCustomer": true,
+      "rate": 1.99,
+      "rateText": "%1,99 kâr payı",
+      "total": 100000,
+      "term": 12,
+      "items": "İhtiyaç Kart finansmanı",
+      "cond": "Kuveyt Türk Mobil'den görüntülü görüşmeyle müşteri olup 30 gün içinde İhtiyaç Kart'a başvurulmalı. 2 ay ertelemeli; Sağlam Kart'ta kart ücreti yok",
+      "until": "",
+      "url": "https://www.kuveytturk.com.tr/en/campaigns/campaign-individual/financing-campaign/special-199-rate-opportunity-on-ihtiyac-card-for-new-members",
+      "linkNote": "Bağlantı bankanın kampanya sayfasının İngilizce sürümüdür."
+    },
+    {
+      "bank": "Enpara",
+      "newCustomer": false,
+      "rate": 2.79,
+      "total": 250000,
+      "term": 12,
+      "items": "İhtiyaç kredisi",
+      "cond": "",
+      "until": "",
+      "url": "https://www.enpara.com"
+    },
+    {
+      "bank": "QNB",
+      "newCustomer": false,
+      "rate": 2.84,
+      "total": 225000,
+      "termText": "3 ve 12 ay",
+      "items": "100.000 TL ihtiyaç kredisi %2,84 (12 ay) + 25.000 TL nakit avans ve 100.000 TL ek hesap %0 (3 ay)",
+      "cond": "",
+      "until": "",
+      "url": "https://www.qnb.com.tr"
+    },
+    {
+      "bank": "Alternatif Bank",
+      "newCustomer": false,
+      "rate": 3.19,
+      "total": 400000,
+      "term": 12,
+      "items": "İhtiyaç kredisi",
+      "cond": "3 ay ertelemeli ödeme",
+      "until": ""
+    },
+    {
+      "bank": "ON Dijital",
+      "newCustomer": false,
+      "rate": 3.19,
+      "total": 600000,
+      "term": 12,
+      "items": "İhtiyaç kredisi",
+      "cond": "",
+      "until": ""
+    },
+    {
+      "bank": "GetirFinans",
+      "newCustomer": false,
+      "rate": 3.29,
+      "total": 650000,
+      "items": "İhtiyaç kredisi",
+      "cond": "",
+      "until": ""
+    }
+  ],
+  "campaignsDate": "2026-11-20",
+  "campaignsSource": "Banka kampanya sayfalarını derleyen haberler ve EnUygunFinans/HangiKredi (19-21 Kasım 2026)"
+}
