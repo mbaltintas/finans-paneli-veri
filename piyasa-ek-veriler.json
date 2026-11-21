@@ -7,8 +7,8 @@
     "tasit": 39.16,
     "ihtiyac": 59.2
   },
-  "banksDate": "2026-11-20",
-  "banksSource": "Hesapkurdu, HangiKredi, Hesap.com, Teklifimgelsin karşılaştırmaları (19-20 Kasım 2026)",
+  "banksDate": "2026-11-21",
+  "banksSource": "İhtiyaç: Hesapkurdu, Enuygun Finans (21 Kasım 2026); konut/taşıt: Hesapkurdu, HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026)",
   "banks": {
     "ihtiyac": [
       {
@@ -28,6 +28,10 @@
         "rate": 2.89
       },
       {
+        "bank": "Alternatif Bank",
+        "rate": 2.99
+      },
+      {
         "bank": "Odeabank",
         "rate": 3.05,
         "max": 500000
@@ -39,10 +43,6 @@
         "max": 350000,
         "minTerm": 3,
         "maxTerm": 36
-      },
-      {
-        "bank": "Alternatif Bank",
-        "rate": 3.19
       },
       {
         "bank": "ON Dijital",
