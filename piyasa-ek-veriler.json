@@ -7,8 +7,8 @@
     "tasit": 39.16,
     "ihtiyac": 59.2
   },
-  "banksDate": "2026-11-21",
-  "banksSource": "İhtiyaç: Hesapkurdu, Enuygun Finans (21 Kasım 2026); konut/taşıt: Hesapkurdu, HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026)",
+  "banksDate": "2026-11-22",
+  "banksSource": "İhtiyaç: Hesapkurdu, Enuygun Finans (21 Kasım 2026); konut: Hesapkurdu (22 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesapkurdu, HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026)",
   "banks": {
     "ihtiyac": [
       {
@@ -131,14 +131,6 @@
     ],
     "konut": [
       {
-        "bank": "Halkbank",
-        "rate": 2.69,
-        "min": 500,
-        "max": 5000000,
-        "minTerm": 1,
-        "maxTerm": 120
-      },
-      {
         "bank": "Albaraka Türk",
         "rate": 2.87,
         "min": 1000,
@@ -171,10 +163,30 @@
         "maxTerm": 120
       },
       {
+        "bank": "Ziraat Katılım",
+        "rate": 2.89
+      },
+      {
         "bank": "Türkiye Finans",
         "rate": 2.9,
         "min": 1000,
         "max": 3500000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Vakıf Katılım",
+        "rate": 2.94,
+        "min": 1000,
+        "max": 2000000,
+        "minTerm": 1,
+        "maxTerm": 120
+      },
+      {
+        "bank": "Halkbank",
+        "rate": 2.99,
+        "min": 500,
+        "max": 5000000,
         "minTerm": 1,
         "maxTerm": 120
       },
@@ -199,12 +211,8 @@
         "maxTerm": 120
       },
       {
-        "bank": "Vakıf Katılım",
-        "rate": 2.99,
-        "min": 1000,
-        "max": 2000000,
-        "minTerm": 1,
-        "maxTerm": 120
+        "bank": "TEB",
+        "rate": 3.09
       },
       {
         "bank": "Garanti BBVA",
@@ -223,16 +231,24 @@
         "maxTerm": 120
       },
       {
+        "bank": "Emlak Katılım",
+        "rate": 3.39
+      },
+      {
         "bank": "ING",
-        "rate": 3.19,
+        "rate": 3.54,
         "min": 1000,
         "max": 20000000,
         "minTerm": 12,
         "maxTerm": 120
       },
       {
-        "bank": "TEB",
-        "rate": 3.3
+        "bank": "Şekerbank",
+        "rate": 3.58
+      },
+      {
+        "bank": "ICBC Turkey",
+        "rate": 3.83
       }
     ],
     "tasit": [
