@@ -7,8 +7,8 @@
     "tasit": 39.16,
     "ihtiyac": 59.2
   },
-  "banksDate": "2026-11-22",
-  "banksSource": "İhtiyaç: Hesapkurdu, Enuygun Finans (21 Kasım 2026); konut: Hesapkurdu (22 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesapkurdu, HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026)",
+  "banksDate": "2026-11-23",
+  "banksSource": "İhtiyaç: Hesapkurdu, Enuygun Finans (21 Kasım 2026), Teklifimgelsin (20 Kasım 2026); konut: Hesapkurdu (22 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesap.com (23 Kasım 2026), Hesapkurdu, HangiKredi, Teklifimgelsin (19-20 Kasım 2026)",
   "banks": {
     "ihtiyac": [
       {
@@ -261,14 +261,6 @@
         "rate": 3.24
       },
       {
-        "bank": "Dünya Katılım",
-        "rate": 3.29
-      },
-      {
-        "bank": "Garanti BBVA",
-        "rate": 3.29
-      },
-      {
         "bank": "ING",
         "rate": 3.29
       },
@@ -281,8 +273,20 @@
         "rate": 3.29
       },
       {
+        "bank": "Türkiye Finans",
+        "rate": 3.33
+      },
+      {
+        "bank": "Dünya Katılım",
+        "rate": 3.39
+      },
+      {
         "bank": "Akbank",
         "rate": 3.4
+      },
+      {
+        "bank": "Garanti BBVA",
+        "rate": 3.45
       },
       {
         "bank": "Ziraat Katılım",
@@ -293,12 +297,20 @@
         "rate": 3.49
       },
       {
+        "bank": "Şekerbank",
+        "rate": 3.92
+      },
+      {
         "bank": "ICBC Turkey",
         "rate": 3.99
       },
       {
         "bank": "Halkbank",
         "rate": 4.04
+      },
+      {
+        "bank": "DenizBank",
+        "rate": 4.14
       },
       {
         "bank": "Emlak Katılım",
