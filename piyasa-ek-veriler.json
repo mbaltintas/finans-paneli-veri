@@ -7,8 +7,8 @@
     "tasit": 39.16,
     "ihtiyac": 59.2
   },
-  "banksDate": "2026-11-23",
-  "banksSource": "İhtiyaç: Hesapkurdu, Enuygun Finans (21 Kasım 2026), Teklifimgelsin (20 Kasım 2026); konut: Hesapkurdu (22 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesap.com (23 Kasım 2026), Hesapkurdu, HangiKredi, Teklifimgelsin (19-20 Kasım 2026)",
+  "banksDate": "2026-11-24",
+  "banksSource": "İhtiyaç: Hesapkurdu (24 Kasım 2026); konut: Hesapkurdu (22 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesap.com (24 Kasım 2026), Hesapkurdu, HangiKredi, Teklifimgelsin (19-20 Kasım 2026)",
   "banks": {
     "ihtiyac": [
       {
@@ -22,10 +22,6 @@
       {
         "bank": "QNB",
         "rate": 2.84
-      },
-      {
-        "bank": "DenizBank",
-        "rate": 2.89
       },
       {
         "bank": "Alternatif Bank",
@@ -106,6 +102,10 @@
         "max": 999999,
         "minTerm": 1,
         "maxTerm": 36
+      },
+      {
+        "bank": "DenizBank",
+        "rate": 3.71
       },
       {
         "bank": "Albaraka Türk",
