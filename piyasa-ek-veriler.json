@@ -7,8 +7,8 @@
     "tasit": 39.16,
     "ihtiyac": 59.2
   },
-  "banksDate": "2026-11-24",
-  "banksSource": "İhtiyaç: Hesapkurdu (24 Kasım 2026); konut: Hesapkurdu (22 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesap.com (24 Kasım 2026), Hesapkurdu, HangiKredi, Teklifimgelsin (19-20 Kasım 2026)",
+  "banksDate": "2026-11-25",
+  "banksSource": "İhtiyaç: Hesapkurdu (24 Kasım 2026); konut: Hesapkurdu (24 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesap.com (25 Kasım 2026), Hesapkurdu, HangiKredi, Teklifimgelsin (19-20 Kasım 2026)",
   "banks": {
     "ihtiyac": [
       {
@@ -131,6 +131,14 @@
     ],
     "konut": [
       {
+        "bank": "Akbank",
+        "rate": 2.85,
+        "min": 10000,
+        "max": 5000000,
+        "minTerm": 12,
+        "maxTerm": 120
+      },
+      {
         "bank": "Albaraka Türk",
         "rate": 2.87,
         "min": 1000,
@@ -221,14 +229,6 @@
         "max": 50000000,
         "minTerm": 12,
         "maxTerm": 240
-      },
-      {
-        "bank": "Akbank",
-        "rate": 3.15,
-        "min": 10000,
-        "max": 5000000,
-        "minTerm": 12,
-        "maxTerm": 120
       },
       {
         "bank": "Emlak Katılım",
@@ -330,7 +330,7 @@
       "total": 150000,
       "term": 3,
       "items": "25.000 TL ihtiyaç kredisi + 25.000 TL taksitli nakit avans + 100.000 TL taksitli ek hesap",
-      "cond": "Kasım ayında ilk kez müşteri olanlara",
+      "cond": "Kasım ayında ilk kez müşteri olanlara. Hesapkurdu (24 Kasım) kampanyayı 200.000 TL ihtiyaç kredisi %3,19 (24 ay) + 25.000 TL avans ve 100.000 TL ek hesap %0 (3 ay), toplam 325.000 TL olarak da gösteriyor",
       "until": "2026-11-30",
       "url": "https://www.qnb.com.tr"
     },
@@ -433,7 +433,7 @@
       "total": 100000,
       "term": 3,
       "items": "İhtiyaç finansmanı",
-      "cond": "",
+      "cond": "Hesapkurdu 'Haftanın Fırsatları'nda 50.000 TL %0 kâr payı olarak da geçiyor; kaynaklar çelişiyor",
       "until": "",
       "url": "https://www.turkiyefinans.com.tr"
     },
@@ -502,6 +502,6 @@
       "until": ""
     }
   ],
-  "campaignsDate": "2026-11-20",
-  "campaignsSource": "Banka kampanya sayfalarını derleyen haberler ve EnUygunFinans/HangiKredi (19-21 Kasım 2026)"
+  "campaignsDate": "2026-11-25",
+  "campaignsSource": "Hesapkurdu (24 Kasım 2026), banka kampanya sayfalarını derleyen haberler ve EnUygunFinans/HangiKredi (19-21 Kasım 2026)"
 }
