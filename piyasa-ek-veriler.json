@@ -7,8 +7,8 @@
     "tasit": 39.16,
     "ihtiyac": 59.2
   },
-  "banksDate": "2026-11-25",
-  "banksSource": "İhtiyaç: Hesapkurdu (24 Kasım 2026); konut: Hesapkurdu (24 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesap.com (25 Kasım 2026), Hesapkurdu, HangiKredi, Teklifimgelsin (19-20 Kasım 2026)",
+  "banksDate": "2026-11-26",
+  "banksSource": "İhtiyaç: Hesapkurdu (26 Kasım 2026); konut: Hesapkurdu (24 Kasım 2026), HangiKredi, Hesap.com, Teklifimgelsin (19-20 Kasım 2026); taşıt: Hesap.com (25 Kasım 2026), Hesapkurdu, HangiKredi, Teklifimgelsin (19-20 Kasım 2026)",
   "banks": {
     "ihtiyac": [
       {
@@ -24,12 +24,17 @@
         "rate": 2.84
       },
       {
+        "bank": "GetirFinans",
+        "rate": 2.89,
+        "max": 650000
+      },
+      {
         "bank": "Alternatif Bank",
         "rate": 2.99
       },
       {
         "bank": "Odeabank",
-        "rate": 3.05,
+        "rate": 2.99,
         "max": 500000
       },
       {
@@ -52,11 +57,6 @@
         "max": 600000,
         "minTerm": 3,
         "maxTerm": 36
-      },
-      {
-        "bank": "GetirFinans",
-        "rate": 3.29,
-        "max": 650000
       },
       {
         "bank": "Aktif Bank",
@@ -475,7 +475,7 @@
     {
       "bank": "Alternatif Bank",
       "newCustomer": false,
-      "rate": 3.19,
+      "rate": 2.99,
       "total": 400000,
       "term": 12,
       "items": "İhtiyaç kredisi",
@@ -495,13 +495,13 @@
     {
       "bank": "GetirFinans",
       "newCustomer": false,
-      "rate": 3.29,
+      "rate": 2.89,
       "total": 650000,
       "items": "İhtiyaç kredisi",
       "cond": "",
       "until": ""
     }
   ],
-  "campaignsDate": "2026-11-25",
-  "campaignsSource": "Hesapkurdu (24 Kasım 2026), banka kampanya sayfalarını derleyen haberler ve EnUygunFinans/HangiKredi (19-21 Kasım 2026)"
+  "campaignsDate": "2026-11-26",
+  "campaignsSource": "Hesapkurdu (26 Kasım 2026), EnUygunFinans (26 Kasım 2026), banka kampanya sayfalarını derleyen haberler ve HangiKredi (19-21 Kasım 2026)"
 }
